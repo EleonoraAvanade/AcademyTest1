@@ -15,12 +15,11 @@ namespace Week1_AC_Esercitazione
         public static void HandleFile(object sender, FileSystemEventArgs f)
         {
             Console.WriteLine("Il file {0} è stato creato, finally!\n", f.Name);
-            Console.WriteLine("Adesso puoi scriverci o leggerci!\n");
+            Console.WriteLine("Adesso puoi scriverci o leggerci!\nScrivi Basta per continuare\n");
         }
 
         public static int SchermoMenu(string f)
         {
-            Console.WriteLine("Sono nel fottuto Schermomenu di merda!DB!\n");
             Console.WriteLine("1 - Leggi\n2 - Scrivi\n3 - Esci\n");
                 int inp = 0;
                 while(!Int32.TryParse(Console.ReadLine(), out inp))
@@ -44,7 +43,6 @@ namespace Week1_AC_Esercitazione
 
         private static void Scrivi(string f)
         {
-            Console.WriteLine("Sono nel fottuto scrivi di merda!DB!\n");
             Console.WriteLine("Immetti la data: \n");
             DateTime date;
             while (!DateTime.TryParse(Console.ReadLine(), out date))
@@ -112,7 +110,6 @@ namespace Week1_AC_Esercitazione
 
         private static void Leggi(string f)
         {
-            Console.WriteLine("Sono nel fottuto LEGGi di merda!DB!\n");
             try
             {
                 using (StreamReader r = File.OpenText(f))

@@ -19,7 +19,7 @@ namespace Week1_AC_Esercitazione
             Console.WriteLine("Attendiamo finchè non ti stanchi\n");
             while (Console.ReadLine() != "Basta") ;
             int str = 0;
-            while (str != -1) { str = Manager.SchermoMenu(fWather.Path+@"\spese.txt"); Console.WriteLine("Sono nel fottuto handle di merda!DB!\n"); }
+            while (str != -1) { str = Manager.SchermoMenu(fWather.Path+@"\spese.txt"); }
         }
     }
 }
