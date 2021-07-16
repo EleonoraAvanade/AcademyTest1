@@ -1,0 +1,16 @@
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.exe
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.deps.json
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.runtimeconfig.json
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.runtimeconfig.dev.json
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.dll
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\ref\Week1-AC-Esercitazione.dll
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\bin\Debug\net5.0\Week1-AC-Esercitazione.pdb
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.csprojAssemblyReference.cache
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.AssemblyInfoInputs.cache
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.AssemblyInfo.cs
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.csproj.CoreCompileInputs.cache
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.dll
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\ref\Week1-AC-Esercitazione.dll
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.pdb
+C:\Users\eleonora.lombardo\Desktop\AC-Esercitazione-week1\Week1-AC-Esercitazione\Week1-AC-Esercitazione\obj\Debug\net5.0\Week1-AC-Esercitazione.genruntimeconfig.cache
