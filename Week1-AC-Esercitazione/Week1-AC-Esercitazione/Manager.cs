@@ -96,7 +96,7 @@ namespace Week1_AC_Esercitazione
                 using (StreamWriter writer = File.CreateText(f))
                 {
                     writer.Write(spesa);
-                    if (rimborso != null) writer.WriteLine(rimborso);
+                    if (rimborso != null) writer.WriteLine(rimborso.Calcola(spesa.Importo));
                     else Console.WriteLine("\n");
                 }
             }

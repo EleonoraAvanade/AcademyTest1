@@ -1648,6 +1648,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "Week1-AC-Esercitazione/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Week1-AC-Esercitazione.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Week1-AC-Esercitazione.dll": {}
+        }
       }
     }
   },
@@ -5611,11 +5621,17 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "Week1-AC-Esercitazione/1.0.0": {
+      "type": "project",
+      "path": "../Week1-AC-Esercitazione/Week1-AC-Esercitazione.csproj",
+      "msbuildProject": "../Week1-AC-Esercitazione/Week1-AC-Esercitazione.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.NET.Test.Sdk >= 16.7.1",
+      "Week1-AC-Esercitazione >= 1.0.0",
       "coverlet.collector >= 1.3.0",
       "xunit >= 2.4.1",
       "xunit.runner.visualstudio >= 2.4.3"
@@ -5655,7 +5671,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\eleonora.lombardo\\Desktop\\AC-Esercitazione-week1\\Week1-AC-Esercitazione\\Week1-AC-Esercitazione\\Week1-AC-Esercitazione.csproj": {
+              "projectPath": "C:\\Users\\eleonora.lombardo\\Desktop\\AC-Esercitazione-week1\\Week1-AC-Esercitazione\\Week1-AC-Esercitazione\\Week1-AC-Esercitazione.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

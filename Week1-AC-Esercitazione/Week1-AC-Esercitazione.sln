@@ -6,6 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week1-AC-Esercitazione", "Week1-AC-Esercitazione\Week1-AC-Esercitazione.csproj", "{78006B77-E434-4E2D-9A0D-7C16B8D69BCB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{1ABAA16B-E2B3-429A-BE09-7D5F81A22517}"
+	ProjectSection(ProjectDependencies) = postProject
+		{78006B77-E434-4E2D-9A0D-7C16B8D69BCB} = {78006B77-E434-4E2D-9A0D-7C16B8D69BCB}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
